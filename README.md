@@ -51,9 +51,25 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 ---
 
-## 🖼️ UI Preview *(coming soon)*
+## 📸 Preview
 
-> 📷 Screenshots and GIFs of the user dashboard, subscription flow, and admin panel will be added here.
+### 🖥️ Interface Highlights
+
+| Sign-Up | Dashboard | Package Selection |
+|--------|-----------|-------------------|
+| ![1](.screenhots/1.png) | ![2](.screenhots/2.png) | ![3](.screenhots/3.png) |
+
+| Profile Update | Shop Info | Admin Dashboard |
+|----------------|-----------|-----------------|
+| ![4](.screenhots/4.png) | ![5](.screenhots/5.png) | ![6](.screenhots/6.png) |
+
+| User List | Package View | Privacy Policy |
+|-----------|--------------|----------------|
+| ![7](.screenhots/7.png) | ![8](.screenhots/8.png) | ![9](.screenhots/9.png) |
+
+| Auth Flow | Settings | Notifications |
+|-----------|----------|----------------|
+| ![10](.screenhots/10.png) | ![11](.screenhots/11.png) | ![12](.screenhots/12.png) |
 
 ---
 
