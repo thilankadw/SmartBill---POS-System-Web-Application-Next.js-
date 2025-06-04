@@ -55,28 +55,40 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 ### 🖥️ Interface Highlights
 
-| Sign-Up | Dashboard | Package Selection |
-|--------|-----------|-------------------|
-| ![1](screenshots/1.png) | ![2](screenshots/2.png) | ![3](screenshots/3.png) |
+#### 🔹 Sign-Up  
+![1](screenshots/1.png)
 
-| Profile Update | Shop Info | Admin Dashboard |
-|----------------|-----------|-----------------|
-| ![4](screenshots/4.png) | ![5](screenshots/5.png) | ![6](screenshots/6.png) |
+#### 🔹 Dashboard  
+![2](screenshots/2.png)
 
-| User List | Package View | Privacy Policy |
-|-----------|--------------|----------------|
-| ![7](screenshots/7.png) | ![8](screenshots/8.png) | ![9](screenshots/9.png) |
+#### 🔹 Package Selection  
+![3](screenshots/3.png)
 
-| Auth Flow | Settings | Notifications |
-|-----------|----------|----------------|
-| ![10](screenshots/10.png) | ![11](screenshots/11.png) | ![12](screenshots/12.png) |
+#### 🔹 Profile Update  
+![4](screenshots/4.png)
 
----
+#### 🔹 Shop Info  
+![5](screenshots/5.png)
 
-## 👨‍💻 Developed By
+#### 🔹 Admin Dashboard  
+![6](screenshots/6.png)
 
-**Your Name**  
-Next.js Developer | Full Stack Engineer  
-🌐 [Portfolio](https://your-portfolio-link.com) • 🐙 [GitHub](https://github.com/your-username) • 💼 [LinkedIn](https://linkedin.com/in/your-link)
+#### 🔹 User List  
+![7](screenshots/7.png)
+
+#### 🔹 Package View  
+![8](screenshots/8.png)
+
+#### 🔹 Privacy Policy  
+![9](screenshots/9.png)
+
+#### 🔹 Auth Flow  
+![10](screenshots/10.png)
+
+#### 🔹 Settings  
+![11](screenshots/11.png)
+
+#### 🔹 Notifications  
+![12](screenshots/12.png)
 
 ---
