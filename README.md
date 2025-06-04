@@ -57,19 +57,19 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 | Sign-Up | Dashboard | Package Selection |
 |--------|-----------|-------------------|
-| ![1](.screenhots/1.png) | ![2](.screenhots/2.png) | ![3](.screenhots/3.png) |
+| ![1](.screenshots/1.png) | ![2](.screenshots/2.png) | ![3](.screenshots/3.png) |
 
 | Profile Update | Shop Info | Admin Dashboard |
 |----------------|-----------|-----------------|
-| ![4](.screenhots/4.png) | ![5](.screenhots/5.png) | ![6](.screenhots/6.png) |
+| ![4](.screenshots/4.png) | ![5](.screenshots/5.png) | ![6](.screenshots/6.png) |
 
 | User List | Package View | Privacy Policy |
 |-----------|--------------|----------------|
-| ![7](.screenhots/7.png) | ![8](.screenhots/8.png) | ![9](.screenhots/9.png) |
+| ![7](.screenshots/7.png) | ![8](.screenshots/8.png) | ![9](.screenshots/9.png) |
 
 | Auth Flow | Settings | Notifications |
 |-----------|----------|----------------|
-| ![10](.screenhots/10.png) | ![11](.screenhots/11.png) | ![12](.screenhots/12.png) |
+| ![10](.screenshots/10.png) | ![11](.screenshots/11.png) | ![12](.screenshots/12.png) |
 
 ---
 
