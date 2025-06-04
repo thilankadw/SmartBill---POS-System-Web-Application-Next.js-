@@ -53,10 +53,6 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 ## 📸 Preview
 
-### 🎞️ Live Demo
-
-[▶️ Watch Demo Video](media/video.mp4)
-
 ### 🖥️ Interface Highlights
 
 #### 🔹 Home  
@@ -94,5 +90,9 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 #### 🔹 Sign Up 
 ![11](screenshots/11.png)
+
+### 🎞️ Live Demo
+
+[▶️ Watch Demo Video](media/video.mp4)
 
 ---
