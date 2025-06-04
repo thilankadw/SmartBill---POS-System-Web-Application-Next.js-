@@ -42,53 +42,60 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 ---
 
+## 📸 Preview
+
+### 🎞️ Live Demo
+
+<video src="media/video.mp4" width="100%" controls autoplay muted loop>
+  Your browser does not support the video tag.
+</video>
+
+
+### 🖥️ Interface Highlights
+
+#### 🔹 Home  
+![1](screenshots/1.png)
+
+#### 🔹 Home  
+![2](screenshots/2.png)
+
+#### 🔹 Home 
+![3](screenshots/3.png)
+
+#### 🔹 Home  
+![4](screenshots/4.png)
+
+#### 🔹 Home  
+![5](screenshots/5.png)
+
+#### 🔹 Packages  
+![6](screenshots/6.png)
+
+#### 🔹 Privacy Policy
+![7](screenshots/7.png)
+
+#### 🔹 Privacy Policy  
+![8](screenshots/8.png)
+
+#### 🔹 User Profile  
+![9](screenshots/9.png)
+
+#### 🔹 Profile Update  
+![12](screenshots/12.png)
+
+#### 🔹 Sign In 
+![10](screenshots/10.png)
+
+#### 🔹 Sign Up 
+![11](screenshots/11.png)
+
+---
+
 ## 💡 Why This Project Stands Out
 
 - ✅ Built from scratch using **Next.js** and best practices
 - ⚙️ Smart state flow with **Zustand**
 - 🔥 Real-time capabilities via **Firebase Firestore**
 - 🎯 Designed with **business usability** and **client scalability** in mind
-
----
-
-## 📸 Preview
-
-### 🖥️ Interface Highlights
-
-#### 🔹 Sign-Up  
-![1](screenshots/1.png)
-
-#### 🔹 Dashboard  
-![2](screenshots/2.png)
-
-#### 🔹 Package Selection  
-![3](screenshots/3.png)
-
-#### 🔹 Profile Update  
-![4](screenshots/4.png)
-
-#### 🔹 Shop Info  
-![5](screenshots/5.png)
-
-#### 🔹 Admin Dashboard  
-![6](screenshots/6.png)
-
-#### 🔹 User List  
-![7](screenshots/7.png)
-
-#### 🔹 Package View  
-![8](screenshots/8.png)
-
-#### 🔹 Privacy Policy  
-![9](screenshots/9.png)
-
-#### 🔹 Auth Flow  
-![10](screenshots/10.png)
-
-#### 🔹 Settings  
-![11](screenshots/11.png)
-
-#### 🔹 Notifications  
-![12](screenshots/12.png)
 
 ---
