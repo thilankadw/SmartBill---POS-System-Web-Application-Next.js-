@@ -42,14 +42,20 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 ---
 
+## 💡 Why This Project Stands Out
+
+- ✅ Built from scratch using **Next.js** and best practices
+- ⚙️ Smart state flow with **Zustand**
+- 🔥 Real-time capabilities via **Firebase Firestore**
+- 🎯 Designed with **business usability** and **client scalability** in mind
+
+---
+
 ## 📸 Preview
 
 ### 🎞️ Live Demo
 
-<video src="media/video.mp4" width="100%" controls autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
-
+[▶️ Watch Demo Video](media/video.mp4)
 
 ### 🖥️ Interface Highlights
 
@@ -88,14 +94,5 @@ A modern, high-performance **POS (Point of Sale) web application** built with **
 
 #### 🔹 Sign Up 
 ![11](screenshots/11.png)
-
----
-
-## 💡 Why This Project Stands Out
-
-- ✅ Built from scratch using **Next.js** and best practices
-- ⚙️ Smart state flow with **Zustand**
-- 🔥 Real-time capabilities via **Firebase Firestore**
-- 🎯 Designed with **business usability** and **client scalability** in mind
 
 ---
